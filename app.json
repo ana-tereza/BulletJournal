@@ -1,5 +1,6 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "BulletJournal",
     "description": "This project is really great.",
     "slug": "BulletJournal",
@@ -23,5 +24,8 @@
     "ios": {
       "supportsTablet": true
     }
+=======
+    "sdkVersion": "25.0.0"
+>>>>>>> 41102b83d26db440d519e4eb1740cae79d7f23f9
   }
 }
